@@ -1,4 +1,4 @@
-Welcome to my Data Analysis Portfolio! This repository showcases my skills and experience in the field of data analysis. Here, you will find a collection of projects and analyses that demonstrate my ability to extract insights and make data-driven decisions.
+Welcome to my Data Analysis Portfolio! Here, you'll find a collection of my analytical projects showcasing how I work with data—from cleaning and exploration to modeling and visualization. I use data analytics to solve practical problems, uncover key trends, and support data-driven decision-making across a variety of fields.
 
 ## Table of Contents
 
