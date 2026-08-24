@@ -2,6 +2,5 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and e
 
 ## Table of Contents
 
-[Project 1: Sales for Retail and Food Services](#project-1)
-
-[Project 2: Superstore Sales Dashboard](#project-2)
+* [Project 1: Sales for Retail and Food Services](#project-1)
+* [Project 2: Superstore Sales Dashboard](#project-2)
